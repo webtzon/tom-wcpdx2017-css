@@ -39,8 +39,9 @@ article#panel1 {
   color: #000;
 }
 
-article#panel1 > h2.entry-title,
-article#panel1 > a {
+article#panel1 h2.entry-title,
+article#panel1 li,
+article#panel1 a {
   color: #000;
 }
 
