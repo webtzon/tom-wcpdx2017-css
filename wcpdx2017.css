@@ -16,7 +16,7 @@ Click the help icon above to learn more.
 
 /* Faddah W. - adding new font-family to native elements & selectors of web site */
 
-body, p, q, blockquote, cite, caption {
+body, p, q, blockquote, cite, caption, li {
 	font-family: 'Raleway', serif;
 }
 
