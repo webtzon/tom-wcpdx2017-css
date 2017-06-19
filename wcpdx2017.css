@@ -58,13 +58,13 @@ Click the help icon above to learn more.
 
 /* Faddah W. - adding new font-family to native elements & selectors of web site */
 
-body, p, a, q, blockquote, cite, caption {
+body, p, q, blockquote, cite, caption {
 	font-family: 'Raleway', serif;
 }
 
 h1, h2, h3, h4 {
 	font-family: 'Roboto Slab', sans-serif;
-	font-weight: 700;
+	 font-weight: 700;
 }
 
 /* Faddah W. - End adding new font-family to native elements & selectors */
