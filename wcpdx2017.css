@@ -76,8 +76,16 @@ h1, h2, h3, h4 {
   font-style: italic;
 }
 
-article.twentyseventeen-panel.post-546.page.type-page.status-publish.hentry {
-  background-color: cornsilk;
+#panel1 {
+  background-color: #eee;
+  color: #000;
+}
+
+#panel1 > h2.entry-title {
+  color: #000;
+}
+
+#panel1 > a {
   color: #000;
 }
 
