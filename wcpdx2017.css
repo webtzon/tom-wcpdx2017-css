@@ -71,12 +71,12 @@ h1, h2, h3, h4 {
 
 /* Faddah W. - styling changes for main Front Page. */
 
-p.site-description {
+.site-description {
   font-size: 2rem;
   font-style: italic;
 }
 
-#panel1 {
+article.twentyseventeen-panel.post-546.page.type-page.status-publish.hentry {
   background-color: cornsilk;
   color: #000;
 }
