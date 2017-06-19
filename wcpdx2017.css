@@ -69,6 +69,21 @@ h1, h2, h3, h4 {
 
 /* Faddah W. - End adding new font-family to native elements & selectors */
 
+/* Faddah W. - styling changes for main Front Page. */
+
+p.site-description {
+  font-size: 2rem;
+  font-style: italic;
+}
+
+#panel1 {
+  background-color: cornsilk;
+  color: #000;
+}
+
+/* Faddah W. - End styling Front Page. */
+
+
 .header-cta > a {
 	background-color: #e74c3c;
 	border-radius: 8px;
