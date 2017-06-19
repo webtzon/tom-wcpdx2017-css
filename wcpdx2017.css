@@ -7,54 +7,12 @@ You can add your own CSS here.
 Click the help icon above to learn more.
 */
 
-/* Faddah W. - adding @font-face for fonts Jamie Schmid suggested for design */
+/* Faddah W. - adding @import url for Google fonts Jamie Schmid suggested for design */
 
-@font-face {
-  font-family: 'Roboto Slab';
-	font-style: normal;
-	font-weight: 400;
-  src: url('https://fonts.googleapis.com/css?family=Roboto+Slab.eot'); /* IE9 Compat Modes */
-  src: url('https://fonts.googleapis.com/css?family=Roboto+Slab.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://fonts.googleapis.com/css?family=Roboto+Slab.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Roboto+Slab.woff') format('woff'), /* Pretty Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Roboto+Slab.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('https://fonts.googleapis.com/css?family=Roboto+Slab.svg#svgFontName') format('svg'); /* Legacy iOS */
-}
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
 
-@font-face {
-  font-family: 'Roboto Slab';
-	font-weight: 700;
-  src: url('https://fonts.googleapis.com/css?family=Roboto+Slab.eot'); /* IE9 Compat Modes */
-  src: url('https://fonts.googleapis.com/css?family=Roboto+Slab.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://fonts.googleapis.com/css?family=Roboto+Slab.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Roboto+Slab.woff') format('woff'), /* Pretty Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Roboto+Slab.ttf')  format('truetype'), /* Safari, Android, iOS */
-}
-
-@font-face {
-  font-family: 'Raleway';
-	font-style: normal;
-	font-weight: 400;
-  src: url('https://fonts.googleapis.com/css?family=Raleway.eot'); /* IE9 Compat Modes */
-  src: url('https://fonts.googleapis.com/css?family=Raleway.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://fonts.googleapis.com/css?family=Raleway.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Raleway.woff') format('woff'), /* Pretty Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Raleway.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('https://fonts.googleapis.com/css?family=Raleway.svg#svgFontName') format('svg'); /* Legacy iOS */
-}
-
-@font-face {
-  font-family: 'Raleway';
-	font-weight: 700;
-  src: url('https://fonts.googleapis.com/css?family=Raleway.eot'); /* IE9 Compat Modes */
-  src: url('https://fonts.googleapis.com/css?family=Raleway.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://fonts.googleapis.com/css?family=Raleway.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Raleway.woff') format('woff'), /* Pretty Modern Browsers */
-       url('https://fonts.googleapis.com/css?family=Raleway.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('https://fonts.googleapis.com/css?family=Raleway.svg#svgFontName') format('svg'); /* Legacy iOS */
-}
-
-/* Faddah W. - End of adding @font-face */
+/* Faddah W. - End of adding @import url Google fonts. */
 
 /* Faddah W. - adding new font-family to native elements & selectors of web site */
 
