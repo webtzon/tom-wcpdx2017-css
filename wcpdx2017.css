@@ -34,13 +34,13 @@ h1, h2, h3, h4 {
   font-style: italic;
 }
 
-.colors-dark.twentyseventeen-front-page > article#panel1 {
+article#panel1 {
   background-color: snow;
   color: #000;
 }
 
-.colors-dark.twentyseventeen-front-page > article#panel1 > h2.entry-title,
-.colors-dark.twentyseventeen-front-page > article#panel1 > a {
+article#panel1 > h2.entry-title,
+article#panel1 > a {
   color: #000;
 }
 
