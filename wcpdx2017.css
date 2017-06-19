@@ -34,8 +34,8 @@ h1, h2, h3, h4 {
   font-style: italic;
 }
 
-div.site-branding > div.wrap {
-  margin-bottom: 3%;
+div.site-branding {
+  margin-bottom: 5px;
 }
 
 article#panel1 {
