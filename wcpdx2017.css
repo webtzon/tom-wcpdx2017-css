@@ -34,9 +34,13 @@ h1, h2, h3, h4 {
   font-style: italic;
 }
 
+.site-title a,
+.site-description {
+  color: cornsilk;
+}
+
 div.site-branding {
   margin-bottom: 5px;
-  color: cornsilk;
 }
 
 article#panel1 {
