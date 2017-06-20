@@ -7,10 +7,7 @@ You can add your own CSS here.
 Click the help icon above to learn more.
 */
 
-/* Faddah W. - adding @import url for Google fonts Jamie Schmid suggested for design */
-
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+/* Imported fonts Raleway and Roboto Slab moved to Theme settings for security reasons */
 
 /* Faddah W. - End of adding @import url Google fonts. */
 
