@@ -7,10 +7,7 @@ You can add your own CSS here.
 Click the help icon above to learn more.
 */
 
-/* Faddah W. - adding @import url for Google fonts Jamie Schmid suggested for design */
-
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+/* Imported fonts Raleway and Roboto Slab moved to Theme settings for security reasons */
 
 /* Faddah W. - End of adding @import url Google fonts. */
 
@@ -73,6 +70,44 @@ article#panel1 a {
 
 .main-navigation a {
 	text-transform: uppercase;
+}
+
+/* Nick K - Light & Dark Link styling for button links (a.pushbutton) */
+
+a.pushbutton {
+  background-color: #222;
+  border: 0;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: 800;
+  line-height: 1;
+  padding: 1em 2em;
+  text-shadow: none;
+  -webkit-transition: background 0.2s;
+  transition: background 0.2s;
+}
+
+a.pushbutton:hover {
+  background: #767676;
+}
+
+.colors-dark a.pushbutton {
+  color: #222;
+  box-shadow: none;
+  background: white;
+}
+
+.colors-dark a.pushbutton:hover {
+  color: #222;
+  box-shadow: none;
+  background: #bbb;
 }
 
 /* TomD -- fixed menu at top
