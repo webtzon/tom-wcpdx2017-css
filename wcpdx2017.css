@@ -3,15 +3,11 @@
 *** WPMU install from WordCamp Central
 http://2017.portland.wordcamp.org/
 You can add your own CSS here.
+
 Click the help icon above to learn more.
 */
 
 /* Imported fonts Raleway and Roboto Slab moved to Theme settings for security reasons */
-<<<<<<< HEAD
-
-/* Faddah W. - End of adding @import url Google fonts. */
-=======
->>>>>>> bb05e4f86772e688de4b9bbead96d757552f066a
 
 /* Faddah W. - adding new font-family to native elements & selectors of web site */
 
@@ -112,10 +108,7 @@ a.pushbutton:hover {
   background: #bbb;
 }
 
-<<<<<<< HEAD
-=======
 /* Nick K. - End styling for Light & Dark button links. */
->>>>>>> bb05e4f86772e688de4b9bbead96d757552f066a
 
 /* Faddah W. -- Front Page Top soc. media icon row styling in flexbox rows.
 */
@@ -137,32 +130,6 @@ img.alignnone.size-medium.wp-image-450 {
 
 /* end Faddh W. Page Top soc. media icon row styling. */
 
-<<<<<<< HEAD
-/* Faddah W. -- Footer widget styling using flexbox.
-*/
-
-.widget-column.footer-widget-2 {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	background-color: lightgray;
-	justify-content: space-around;
-	align-items: center;
-}
-
-/* #twitter_timeline-5 {
-    flex-basis: 31%;
-}
-#facebook-likebox-4 {
-    flex-basis: 31%;
-}
-#googleplus-badge-3 {
-    flex-basis: 31%;
-} */
-/* end Faddh W. Footer widget styling */
-
-=======
->>>>>>> bb05e4f86772e688de4b9bbead96d757552f066a
 /* Doug Y. - Headings */
 
 .page .panel-content .entry-title, .page-title, body.page:not(.twentyseventeen-front-page) .entry-title {
@@ -203,5 +170,6 @@ img.alignnone.size-medium.wp-image-450 {
 		margin-bottom: 0 !important;
 		margin-top: 72px;
 	}
-}
+}_	�/*
+
 /* Doug Y. - End of CSS fixes for header, accounts for admin bar & extra gray space below the header */
